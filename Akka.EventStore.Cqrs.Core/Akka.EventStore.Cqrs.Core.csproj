@@ -69,7 +69,7 @@
     <Compile Include="Domain\ICommand.cs" />
     <Compile Include="Domain\IEvent.cs" />
     <Compile Include="Domain\IEventSink.cs" />
-    <Compile Include="Domain\IMessage.cs" />
+    <Compile Include="Domain\IMessageContext.cs" />
     <Compile Include="Domain\IPersistable.cs" />
     <Compile Include="Domain\IVersionable.cs" />
     <Compile Include="Extensions\Extensions.cs" />
